@@ -3,9 +3,9 @@
 /* auto-generated react proxies */
 import { createReactComponent } from './react-component-lib';
 
-import type { JSX } from 'component-library';
+import type { JSX } from 'component-library-12';
 
-import { defineCustomElements } from 'component-library/loader';
+import { defineCustomElements } from 'component-library-12/loader';
 
 defineCustomElements();
 export const FlipCard = /*@__PURE__*/createReactComponent<JSX.FlipCard, HTMLFlipCardElement>('flip-card');
